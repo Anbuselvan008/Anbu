@@ -8,7 +8,7 @@ namespace SimpleConsoleCalculator
         {
             while (true)
             {
-                Console.WriteLine("Simple Console Calculator");
+                Console.WriteLine("Simple Console Calculatorsss");
                 Console.WriteLine("------------------------");
 
                 // Get first number
