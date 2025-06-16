@@ -71,7 +71,7 @@ namespace SimpleConsoleCalculator
                 // Display result
                 if (validOperation)
                 {
-                    Console.WriteLine($"Result: {num1} {operation} {num2} = {result}");
+                    Console.WriteLine($"Result: {num1} {operation} {num22} = {result}");
                 }
 
                 // Ask to continue
